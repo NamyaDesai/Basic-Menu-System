@@ -1,4 +1,4 @@
-~ July 2024 ~
+_July 2024_
 
 Simple Menu Implementation
 
